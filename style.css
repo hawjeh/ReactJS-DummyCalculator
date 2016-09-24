@@ -1,0 +1,22 @@
+.box {
+  margin: 0 auto;
+  width: 620px;
+}
+
+.displayBox {
+  color: black;
+  background-color: #D3D3D3;
+  max-width: 620px;
+  word-wrap: break-word;
+  min-height: 80px;
+  padding: 5px 10px;
+  margin-top: 10px;
+}
+
+.keyBtn {
+  width: 145px;
+  height: 60px;
+  margin: 5px;
+  background-color: transparent;
+  color: black;
+}

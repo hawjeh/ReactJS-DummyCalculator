@@ -2,4 +2,4 @@
 Just another calculator
 ========================
 
-Webpack
+ES6, Webpack, State, Component, Events, Arrays
